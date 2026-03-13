@@ -1,10 +1,10 @@
 <div align="center">
 
-<img
+<!-- <img
   src="https://avatars.githubusercontent.com/u/139944072?v=4"
   alt="Sripad Chilivery"
   style="width:150px; height:150px; object-fit:cover; border-radius:50%; display:block; border:2px solid #fff;"
-/>
+/> -->
 # Chilivery Sripad
 ### AI/ML Engineer · GenAI · RAG Pipelines · LLMs
 
