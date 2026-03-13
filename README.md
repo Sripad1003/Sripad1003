@@ -139,7 +139,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-sripadch10-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sripadch10)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-chiliverxvxm-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/chiliverxvxm)
 
-📧 **chilivery.sripad@gmail.com** · 📱 **+91 7569793280** · 📍 **Hyderabad, India**
+📧 **chilivery.sripad8@gmail.com** · 📱 **+91 7569793280** · 📍 **Hyderabad, India**
 
 </div>
 
