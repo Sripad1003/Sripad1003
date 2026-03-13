@@ -42,7 +42,7 @@
 - Achieved sub-2s response latency with FAISS vector indexing on 10K+ document chunks
 - REST API backend with FastAPI, deployed with Streamlit frontend
 
-[![Repo](https://img.shields.io/badge/GitHub-SmartDoc_QA-181717?style=flat-square&logo=github)](https://github.com/Sripad1003)
+[![Repo](https://img.shields.io/badge/GitHub-SmartDoc_QA-181717?style=flat-square&logo=github)](https://github.com/Sripad1003/SmartDoc_QA)
 
 ---
 
@@ -56,7 +56,7 @@
 - Handles multi-turn conversations with domain-specific knowledge about environmental policy
 - Designed for scale — architecture supports millions of citizen queries
 
-[![Repo](https://img.shields.io/badge/GitHub-NMCG_Chatbot-181717?style=flat-square&logo=github)](https://github.com/Sripad1003)
+[![Repo](https://img.shields.io/badge/GitHub-NMCG_Chatbot-181717?style=flat-square&logo=github)](https://github.com/Sripad1003/NMCG)
 
 ---
 
@@ -70,7 +70,7 @@
 - Full-stack app: React frontend, Express/Node backend, MongoDB database
 - Personalized recommendations that improve with user feedback
 
-[![Repo](https://img.shields.io/badge/GitHub-Recipe_Realm-181717?style=flat-square&logo=github)](https://github.com/Sripad1003)
+[![Repo](https://img.shields.io/badge/GitHub-Recipe_Realm-181717?style=flat-square&logo=github)](https://github.com/Sripad1003/Recipe_Realm)
 
 ---
 
